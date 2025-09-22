@@ -1,7 +1,9 @@
 # machine-learning-zoomcamp-homework
 Hello World!
 
-# commands
+<!-- # commands
 # git status
 # git commit -am 'read me update'
-# git push  
+# git push   -->
+
+ 
